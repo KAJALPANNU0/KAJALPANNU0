@@ -1,9 +1,7 @@
 Hola 👋,
                 I'm Kajal 
 
-I'm an Electronics & Telecommunication undergraduate passionate about software development and problem solving. I enjoy building real-world applications, strengthening my data structures and algorithms skills, and continuously learning and contributing.
-
-Currently, I'm focused on Java, backend development, databases, and writing clean, maintainable code while preparing for software engineering internships.
+CODE, EAT, RE..PE..ATE....REPEATE ......
 
 
 💻 Tech Stack
@@ -13,6 +11,9 @@ Backend Spring Boot (Learning), JDBC
 Databases PostgreSQL,MySQL 
 Tools Git, GitHub, VS Code, IntelliJ IDEA, Maven, canva
 Concepts Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks
+
+![KAJALPANNU0's Stats](https://github-readme-stats.vercel.app/api?username=KAJALPANNU0&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![KAJALPANNU0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAJALPANNU0&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
 <!--
 **KAJALPANNU0/KAJALPANNU0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
