@@ -40,20 +40,7 @@
 #### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KAJALPANNU0&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KAJALPANNU0&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAJALPANNU0&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=springboot,Pytourch" />
 </p>
 
 ---
@@ -61,17 +48,13 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<a href="https://www.linkedin.com/in/KAJALPANNU/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:kajalkap098@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
 
 ---
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=KAJALPANNU0&label=Profile+Views&color=6A5ACD&style=flat" />
-</p>
