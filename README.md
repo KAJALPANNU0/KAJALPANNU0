@@ -1,33 +1,74 @@
-Hola 👋,
-                I'm Kajal 
+<h1 align="center">Hi 👋, I'm Kajal</h1>
 
-CODE, EAT, RE..PE..ATE....REPEATE ......
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=650&lines=Third+Year+Electronics+%26+Telecommunication+Student;Aspiring+Software+Engineer;Machine+Learning+%7C+Backend+Developer;Always+Learning+Something+New+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
+---
 
-💻 Tech Stack
+### 👩‍💻 About Me
 
-Languages Java, Python, C++, SQL, HTML, CSS, JavaScript
+- 🎓 Third Year Electronics & Telecommunication Student
+- 💻 Interested in Machine Learning, Backend Development & DSA
+- 🌱 Currently exploring Spring Boot and AI/ML
+- ⚡ I enjoy building projects that solve real-world problems
 
-Backend Spring Boot (Learning), JDBC
+---
 
-Databases PostgreSQL,MySQL 
+### 🛠️ Tech Stack
 
-Tools Git, GitHub, VS Code, IntelliJ IDEA, Maven, canva
+#### Languages
 
-Concepts Data Structures & Algorithms, Object-Oriented Programming, DBMS, Operating Systems, Computer Networks
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,sql" />
+</p>
 
-![KAJALPANNU0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAJALPANNU0&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-<!--
-**KAJALPANNU0/KAJALPANNU0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Web Development
 
-Here are some ideas to get you started:
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,spring,mysql" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
+</p>
+
+#### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KAJALPANNU0&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=KAJALPANNU0&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KAJALPANNU0&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KAJALPANNU0&label=Profile+Views&color=6A5ACD&style=flat" />
+</p>
