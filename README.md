@@ -20,19 +20,19 @@
 #### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,sql" />
+<img src="https://skillicons.dev/icons?i=java,python,js,sql" />
 </p>
 
 #### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,spring,mysql" />
 </p>
 
 #### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 #### Currently Learning
