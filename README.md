@@ -37,24 +37,4 @@
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-#### Currently Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=springboot,Pytourch" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/KAJALPANNU/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="mailto:kajalkap098@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-</p>
-
----
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
