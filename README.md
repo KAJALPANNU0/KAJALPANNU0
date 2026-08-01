@@ -28,13 +28,13 @@
 #### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,springboot, maven, postgresql" />
 </p>
 
 #### Tools & Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,colab" />
 </p>
 
 
