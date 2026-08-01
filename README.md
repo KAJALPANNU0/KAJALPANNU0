@@ -28,7 +28,7 @@
 #### Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,springboot, maven, postgresql" />
+<img src="https://skillicons.dev/icons?i=html,css,spring, postgresql" />
 </p>
 
 #### Tools & Technologies
